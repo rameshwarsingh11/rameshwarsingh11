@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rameshwar Singh
-- 👀 I’m interested in Data Structure & Algorithms with ML.
+- 👀 I’m interested in applying Data Structure & custom Algorithms in ML solutions.
 - 🌱 I’m currently learning ML accelerators for next gen data visual models.
 - 💞️ I’m looking to collaborate on MLOps, DataOps & DevSecOps 
 - 📫 Reach me @rameshwar.job2@gmail.com
