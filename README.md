@@ -2,7 +2,7 @@
 - 👀 I’m interested in applying Data Structure & custom Algorithms in ML solutions.
 - 🌱 I’m currently learning ML accelerators for next gen data visual models.
 - 💞️ I’m looking to collaborate on MLOps, DataOps & DevSecOps 
-- 📫 Reach me @rameshwar.job2@gmail.com
+- 📫 Reach me at rameshwar.job2@gmail.com
 
 <!---
 rameshwarsingh11/rameshwarsingh11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
